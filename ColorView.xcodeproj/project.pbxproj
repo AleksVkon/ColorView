@@ -11,6 +11,7 @@
 		0CF7F6C02BD271E600AAE387 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CF7F6BF2BD271E600AAE387 /* ContentView.swift */; };
 		0CF7F6C22BD271E900AAE387 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CF7F6C12BD271E900AAE387 /* Assets.xcassets */; };
 		0CF7F6C52BD271E900AAE387 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CF7F6C42BD271E900AAE387 /* Preview Assets.xcassets */; };
+		0CF7F6CC2BD2721300AAE387 /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CF7F6CB2BD2721300AAE387 /* SliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0CF7F6BF2BD271E600AAE387 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0CF7F6C12BD271E900AAE387 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0CF7F6C42BD271E900AAE387 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0CF7F6CB2BD2721300AAE387 /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				0CF7F6BD2BD271E600AAE387 /* ColorViewApp.swift */,
 				0CF7F6BF2BD271E600AAE387 /* ContentView.swift */,
+				0CF7F6CB2BD2721300AAE387 /* SliderView.swift */,
 				0CF7F6C12BD271E900AAE387 /* Assets.xcassets */,
 				0CF7F6C32BD271E900AAE387 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0CF7F6CC2BD2721300AAE387 /* SliderView.swift in Sources */,
 				0CF7F6C02BD271E600AAE387 /* ContentView.swift in Sources */,
 				0CF7F6BE2BD271E600AAE387 /* ColorViewApp.swift in Sources */,
 			);
